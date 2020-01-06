@@ -17,6 +17,9 @@ header {
 	height: 500px;
 	width: 100%;
 }
+figcaption {
+	text-align: center;
+}
 /*index*/
 .text1 {
 	position: center;
@@ -208,9 +211,9 @@ video {
 	vertical-align: middle;
 	width: auto;
 }*/
-/*img:hover {
+img:hover {
 	box-shadow: 0 0 2px 1px white;
-}*/
+}
 footer {
 	display: block;
 	padding: 1px 1px;
