@@ -9,7 +9,7 @@ header {
 	width: 100%;
 }
 .hero-image {
-	background-image: url("banner3.jpg");
+	background-image: url("gallery/banner3.jpg");
 	background-position: center 2%;
 	background-repeat: no-repeat;
 	background-size: cover;
