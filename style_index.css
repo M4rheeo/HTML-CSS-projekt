@@ -214,6 +214,63 @@ video {
 img:hover {
 	box-shadow: 0 0 2px 1px white;
 }
+@media screen and (max-width: 768px) {
+	figure {
+		width: 100px;
+		margin-left: -5px;
+		margin-top: 5px;
+	}
+	.container {
+		width: 90%;
+	}
+	li {
+		text-align: center;
+		display: inline;
+	}
+	body {
+		font-size: 14px;
+	}
+	.news {
+		height: 300px;
+		width: 70%;
+		float: none;
+		margin: 0 auto;
+	}
+	.news h2 {
+		text-align: center;
+	}
+	li a {
+		text-decoration: none;
+		text-align: center;
+		padding: 14px 16px;
+		margin: auto;
+	}
+	.imgBox {
+		width: 100%;
+		padding: 10px;
+		float: left;
+		margin: 0 auto;
+	}
+	.img {
+		height: 450px;
+	}
+	nav {
+		display: none;
+	}
+	.video {
+		float: none;
+		box-align: center;
+		padding-right: 0px;
+		padding-left: 50px;
+	}
+	h1 {
+		padding-top: 10px;
+		padding-bottom: 15px;
+		text-align: center;
+		margin: 0;
+	}
+
+}
 footer {
 	display: block;
 	padding: 1px 1px;
