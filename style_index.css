@@ -255,7 +255,7 @@ img:hover {
 		height: 450px;
 	}
 	nav {
-		display: none;
+		display: flex;
 	}
 	.video {
 		float: none;
